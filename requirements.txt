@@ -1,0 +1,10 @@
+deeplake<4
+numpy
+matplotlib
+scikit-learn
+scipy
+scikit-image
+tqdm
+joblib
+pandas
+seaborn
